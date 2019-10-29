@@ -18,3 +18,5 @@ function Circle:draw()
     love.graphics.setColor(1, 1, 1)
     love.graphics.Circle(fill ,x,y,radius)
 end
+
+--comentario cuya una meta es comprobar si aqui funciona el Push
