@@ -13,3 +13,5 @@ end
 function love.draw()
     circle_instance:draw()
 end
+
+Nada funcional ni correcto, solo quiero ver si de verdad se usar la versión de escritorio
